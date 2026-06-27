@@ -12,9 +12,6 @@
 
 <br/>
 
-<!-- About -->
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### ✦ About Me
 
 I'm a **Software Engineer** from Islamabad, Pakistan 🇵🇰 — passionate about crafting clean, scalable full-stack applications. I have real-world experience shipping AI-powered SaaS products used by thousands of users globally.
